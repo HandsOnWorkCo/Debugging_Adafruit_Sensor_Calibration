@@ -13,3 +13,6 @@
 [submodule "Adafruit_Sensor"]
 	path = Adafruit_Sensor
 	url = https://github.com/adafruit/Adafruit_Sensor.git
+[submodule "ArduinoCore-avr"]
+	path = ArduinoCore-avr
+	url = https://github.com/arduino/ArduinoCore-avr.git
