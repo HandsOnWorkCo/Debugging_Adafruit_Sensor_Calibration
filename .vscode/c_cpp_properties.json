@@ -6,7 +6,7 @@
                 "${workspaceFolder}/**",
                 "${workspaceFolder}/ArduinoCore-avr/libraries/SPI/src"
             ],
-            "defines": [],
+            "defines": [ "USBCON" ],
             "compilerPath": "/usr/bin/clang",
             "cStandard": "c17",
             "cppStandard": "c++14",
